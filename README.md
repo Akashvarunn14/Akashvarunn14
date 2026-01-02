@@ -1,0 +1,34 @@
+# Hi, I’m Akash Varunn 👋
+
+🎓 B.Tech Cyber Security student  
+🔐 Interested in Networking, Pentesting & CTFs  
+⚡ Linux | TCP/IP | Web Security | Pwn  
+
+---
+
+### 🚀 What I’m working on
+- 🧪 CTF challenges & writeups
+- 🌐 Network security labs
+- 🛠️ Hands-on pentesting practice
+
+---
+
+### 🧰 Languages & Tools
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashvarunn&show_icons=true&theme=tokyonight)
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashvarunn&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/your-link
+- Website: https://your-site.com
