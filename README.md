@@ -1,4 +1,4 @@
-# Hi, I’m Akash Varunn 👋
+# Hi, I’m Akash Varunn D👋
 
 🎓 B.Tech Cyber Security student  
 🔐 Interested in Networking, Pentesting & CTFs  
@@ -22,10 +22,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashvarunn&show_icons=true&theme=tokyonight)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashvarunn14&show_icons=true&theme=tokyonight)
 
 ### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashvarunn&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashvarunn14&layout=compact&theme=tokyonight)
 
 ---
 
