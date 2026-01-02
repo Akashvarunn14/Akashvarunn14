@@ -1,15 +1,15 @@
-# Hi, I’m Akash Varunn D👋
+# Hi, I’m Akash Varunn D 👋
 
 🎓 B.Tech Cyber Security student  
-🔐 Interested in Networking, Pentesting & CTFs  
+🔐 Networking | Pentesting | CTFs  
 ⚡ Linux | TCP/IP | Web Security | Pwn  
 
 ---
 
 ### 🚀 What I’m working on
-- 🧪 CTF challenges & writeups
-- 🌐 Network security labs
-- 🛠️ Hands-on pentesting practice
+- 🧪 CTF challenges & writeups  
+- 🌐 Network security labs  
+- 🛠️ Hands-on pentesting practice  
 
 ---
 
@@ -24,11 +24,11 @@
 ### 📊 GitHub Stats
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashvarunn14&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
+### 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashvarunn14&layout=compact&theme=tokyonight&cache_seconds=86400)
-
 
 ---
 
 ### 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/your-link
-- Website: https://your-site.com
+- LinkedIn: https://www.linkedin.com/in/akash-varunn/
+- GitHub Pages: https://akashvarunn14.github.io
