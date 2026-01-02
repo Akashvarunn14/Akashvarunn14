@@ -28,11 +28,6 @@
 
 
 
-
-### 🔥 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashvarunn14&layout=compact&theme=tokyonight" />
-
-
 ---
 
 ### 📫 Connect with me
