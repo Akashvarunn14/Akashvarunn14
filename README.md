@@ -22,10 +22,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashvarunn14&show_icons=true&theme=tokyonight)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashvarunn14&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashvarunn14&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashvarunn14&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 
 ---
 
