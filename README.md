@@ -23,14 +23,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-6tgs3o9nq-akash-varunns-projects.vercel.app/api?username=Akashvarunn14&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats-6tgs3o9nq-akash-varunns-projects.vercel.app/api.png?username=Akashvarunn14&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-6tgs3o9nq-akash-varunns-projects.vercel.app/api/top-langs/?username=Akashvarunn14&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats-6tgs3o9nq-akash-varunns-projects.vercel.app/api/top-langs.png?username=Akashvarunn14&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
