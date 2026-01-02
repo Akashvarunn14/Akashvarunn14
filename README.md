@@ -24,11 +24,8 @@
 ## 📊 GitHub Stats
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashvarunn14&show_icons=true&theme=tokyonight)
 
----
-
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashvarunn14&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 Connect with me
