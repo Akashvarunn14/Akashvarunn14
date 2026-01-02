@@ -22,7 +22,8 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Akashvarunn14&show_icons=true&theme=tokyonight" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashvarunn14)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🔥 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashvarunn14&layout=compact&theme=tokyonight" />
