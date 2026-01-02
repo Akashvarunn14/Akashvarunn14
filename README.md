@@ -20,9 +20,12 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
 
 ---
-
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats-14kwkdy8e-akash-varunns-projects.vercel.app/api?username=Akashvarunn14&show_icons=true&theme=tokyonight" />
+
+### 🔥 Most Used Languages
+<img src="https://github-readme-stats-14kwkdy8e-akash-varunns-projects.vercel.app/api/top-langs/?username=Akashvarunn14&layout=compact&theme=tokyonight" />
+
 
 
 
